@@ -12,7 +12,7 @@ This is a FastAPI-based service that processes Greek text and suggests diacritiz
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/SarafoglouAth/FastAPI-Diacritization-Service.git
    cd your-repo
    ```
 
@@ -94,5 +94,5 @@ Processes input text and suggests possible diacritized versions.
 MIT License
 
 ## Author
-Your Name
+Thanos Sarafoglou
 
