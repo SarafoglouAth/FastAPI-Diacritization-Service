@@ -13,7 +13,7 @@ This is a FastAPI-based service that processes Greek text and suggests diacritiz
 1. Clone the repository:
    ```sh
    git clone https://github.com/SarafoglouAth/FastAPI-Diacritization-Service.git
-   cd your-repo
+   cd FastAPI-Diacritization-Service
    ```
 
 2. Create a virtual environment (optional but recommended):
